@@ -76,12 +76,12 @@ strong {
 a {
   text-decoration: none;
   font-weight: 400;
-  color: #171722;
+  color: blue;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #171722;
+  color: blue;
 }
 
 
