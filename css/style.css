@@ -84,11 +84,6 @@ a:hover {
   color: rgb(24,159,142);
 }
 
-.return
-{
-  text-align: center;
-}
-
 .social a {
   opacity: 0.3;
   transition: opacity .25s ease-in-out;
