@@ -115,6 +115,7 @@ img.avatar {
   height: 125px;
   margin-top: -30px;
   border: solid 2px white;
+  border-radius: 6px;
 }
 
 .social li img {
