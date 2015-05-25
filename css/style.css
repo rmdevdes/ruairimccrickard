@@ -25,7 +25,7 @@ Author URI: http://littlethunder.co
 body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
-  color: #444;
+  color: #fff;
    -webkit-font-smoothing: antialiased;
 }
 
@@ -127,7 +127,6 @@ img.avatar {
 .container {
   width: 600px;
   margin: 100px auto 25px;
-  background-color: rgba(255,255,255,0.9);
   padding: 0 60px 30px;
   border-radius: 6px;
 }
